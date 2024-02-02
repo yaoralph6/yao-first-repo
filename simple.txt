@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-First repository
-=======
-Github repo
->>>>>>> 674ad76d5cc12d8324ff5e5ee1b47ea06e2591d0
+Github repository
